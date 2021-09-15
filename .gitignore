@@ -1,0 +1,4 @@
+cert*
+root.ca
+terraform*
+.terraform*
